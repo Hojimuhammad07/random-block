@@ -1,0 +1,11 @@
+.parent{
+    max-width: 700px;
+    margin: 4% auto;
+    border: 3px dashed;
+    height: 60px;
+    
+}
+.inp{
+    margin-top: 20px;
+    margin-left: 90px;
+}
